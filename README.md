@@ -1,2 +1,2 @@
-# FlipkartGamesScript
-This is a python script to play flipkart games.
+# FlipkartGamesScripts
+Python scripts to play flipkart games.
